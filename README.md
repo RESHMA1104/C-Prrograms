@@ -13,7 +13,7 @@ This section includes programs that cover:
 - Looping statements (`for`, `while`, `do-while`)
 - Functions and type casting
 
-- ## 🔹 C Operators
+ ##  C Operators
 
 This section demonstrates the usage of different types of operators:
 
